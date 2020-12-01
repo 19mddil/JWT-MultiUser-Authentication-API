@@ -1,5 +1,6 @@
 # Local Set Up
-(I previously had this project in the <https://github.com/19mddil/Django_Framework/tree/master/api_projects/Medi_Project/jwt_authen_project/backend> repo, but now the project worth having a repository for itself)  
+(I previously had this project in the <https://github.com/19mddil/Django_Framework/tree/master/api_projects/Medi_Project/jwt_authen_project/backend> repo, but now the project worth having a repository for itself.Also I implemented the same criteria using djangos rest auth which can be found in this repo
+<https://github.com/19mddil/Django_Framework/tree/master/api_projects/Medi_Project/rest_auth_project/backend> )  
 **Run Following Commands in the Terminal**  
 ```bash
 git clone https://github.com/19mddil/JWT-MultiUser-Authentication-API.git
