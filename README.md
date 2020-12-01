@@ -15,9 +15,7 @@ python3 manage.py migrate
 python3 manage.py runserver
 ```
 ## About
-I was creating a medical system project where at a point I had to create two users who are doctor and paitent and I also intended  
-to use jwt token authentication system. I was able to do it after some research and logical coding and the details can be found in my  
-website.
+I was creating a medical system project where at a point I had to create two users who are doctor and paitent and I also intended to use jwt token authentication system. I was able to do it after some research and logical coding and the details can be found in my website.
 ## WorkFlow
 ### Register a Paitent
 <http://127.0.0.1:8000/api/signup/paitent/>
