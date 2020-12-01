@@ -42,8 +42,8 @@ on success you now retrieve your paitent profile
 ![success response ](/assets/postman_p_5.png)
 ### Register a Doctor
 <http://127.0.0.1:8000/api/signup/doctor/>
-![doctor registration input](/assets/dr.png)
-![registration success](/assets/drs.png)
+![doctor registration input](/assets/pd.png)
+![registration success](/assets/pds.png)
 ### Sign in the Doctor using Postman
 Make sure you select POST and enter <http://127.0.0.1:8000/api/signin/>,  
 then in the body part select raw and json format and enter data like following  
