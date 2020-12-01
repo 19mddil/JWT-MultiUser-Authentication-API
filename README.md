@@ -21,7 +21,7 @@ website.
 ## WorkFlow
 ### Register a Paitent
 <http://127.0.0.1:8000/api/signup/paitent/>
-[paitent registration input](/assets/pr.png)
+[paitent registration input](assets/pr.png)
 [registration success](/assets/prs.png)
 ### Sign in the Paitent using Postman
 Open Postman and create new request
