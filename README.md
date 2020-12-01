@@ -58,4 +58,4 @@ following image
 on success you now retrieve your doctor profile  
 ![success response ](/assets/postman_d_5.png)
 
-The detail behind the workflow which is code has been tried to explained by me in my webpage <http://www.19mddilshad.xyz/project.php>.
+The detail behind the workflow which is code has been tried to explained by me in my webpage <http://www.19mddilshad.xyz/django.php>.
