@@ -5,7 +5,7 @@
 ```bash
 git clone https://github.com/19mddil/JWT-MultiUser-Authentication-API.git
 ```
-Then move to the medi_project directory where you can see manage.py and run following
+Then move your cloned directory where you will see manage.py and run following
 ```bash
 python3 -m venv venv
 source venv/bin/activate
